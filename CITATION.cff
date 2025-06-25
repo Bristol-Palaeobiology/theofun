@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use the functions included in this repository, please cite it using the metadata below."
 title: "theofun"
-version: "1.0.0"
+version: "0.0.1"
 authors:
   - family-names: Deakin
     given-names: William J.
