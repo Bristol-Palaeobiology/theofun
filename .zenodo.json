@@ -1,0 +1,22 @@
+{
+  "title": "theofun",
+  "description": "A collection of MATLAB functions designed to create theoretical morphospaces from 2D Elliptic Fourier Analysis data. Theoretical shapes can then be tested for functional performance, using Finite Element Analysis.",
+  "creators": [
+    {
+      "name": "Deakin, William J.",
+      "affiliation": "University of Bristol (former member)"
+      "orcid": "https://orcid.org/0000-0001-5612-7738"
+    },
+    {
+      "name": "Rayfield, Emily J.",
+      "affiliation": "University of Bristol"
+      "orcid": "https://orcid.org/0000-0002-2618-750X"
+    },
+    {
+      "name": "Donoghue, Philip C.J.",
+      "affiliation": "University of Bristol"
+      "orcid": "https://orcid.org/0000-0003-3116-7463"
+    }
+  ],
+  "keywords": ["palaeontology", "functional analysis", "evolution", "adaptation]
+}
